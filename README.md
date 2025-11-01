@@ -30,8 +30,3 @@ Or open index.html directly in your browser to see it locally.
 
 
 
-🧑‍💻 Author
-
-Created by [Nishanthini M] – [
-
-]
